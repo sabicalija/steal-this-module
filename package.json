@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sabicalija/steal-this-module/issues"
   },
-  "homepage": "https://github.com/sabicalija/steal-this-module#readme"
+  "homepage": "https://github.com/sabicalija/steal-this-module#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
 }
