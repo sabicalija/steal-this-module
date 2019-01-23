@@ -18,5 +18,8 @@
   "homepage": "https://github.com/sabicalija/steal-this-module#readme",
   "dependencies": {
     "cowsay": "^1.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.0"
   }
 }
